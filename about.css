@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+header{
+    color: red;
+}
+main{
+    #about{
+        h2{
+            color: red;
+        }
+        img{
+            border-radius: 50%;
+            border: 2px solid red;
+            text-align: center;
+        }
+        p{
+            color: white;
+        }
+        h3{
+            color: red;
+        }
+        ul{
+            color: white;
+            list-style-type: square;
+        }
+    }
+}
